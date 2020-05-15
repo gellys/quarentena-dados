@@ -1,4 +1,4 @@
-# #QuarentenaDados - Aula 01
+# #QuarentenaDados
 
 5 aulas entendendo os princípios básicos, explorando e analisando dados da base de filmes do MovieLens e também do Enem.
 
